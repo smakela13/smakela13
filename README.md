@@ -6,7 +6,7 @@ I’m detail oriented, great at collaborating with others, have excellent writte
 
 In terms of programming, I'm comfortable with HTML5, CSS, JavaScript, GitHub, Node.js, WordPress, and responsive web design. I am familiar with Python, PHP, and MySQL. My skills are growing every day.
 
-Take a look at my [portfolio](https://smakela13.github.io/smakela-portfolio/). You can also view my GitHub repository for more projects. Feel free to contact me through [LinkedIn](https://www.linkedin.com/in/sarah-makela-0967b91b8/).
+Take a look at my [portfolio](https://smakela13.github.io/smakela-portfolio/). You can also view my GitHub [repositories](https://github.com/smakela13?tab=repositories) for more projects. Feel free to contact me through [LinkedIn](https://www.linkedin.com/in/sarah-makela-0967b91b8/).
 
 <!--
 **smakela13/smakela13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
