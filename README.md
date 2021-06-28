@@ -8,20 +8,16 @@ In terms of programming, I'm comfortable with HTML5, CSS, JavaScript, GitHub, No
 
 Take a look at my [portfolio](https://smakela13.github.io/smakela-portfolio/). You can also view my GitHub [repositories](https://github.com/smakela13?tab=repositories) for more projects. Feel free to contact me through [LinkedIn](https://www.linkedin.com/in/sarah-makela-0967b91b8/).
 
-<!--
 **smakela13/smakela13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... a Discord bot moderator.
 - 🌱 I’m currently learning ... full stack web development.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ... 
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ... 
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to collaborate on ... fun and interesting ideas.
+- 📫 How to reach me: ... smakela.now@gmail.com.
+- 😄 Pronouns: ... they/them.
+- ⚡ Fun fact: ... I've traveled to over 20 countries.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smakela13&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
