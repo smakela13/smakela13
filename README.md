@@ -12,7 +12,7 @@ Take a look at my [portfolio](https://smakela13.github.io/smakela-portfolio/). Y
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... a Discord bot moderator.
+- 🔭 I’m currently working on ... a Discord moderator bot.
 - 🌱 I’m currently learning ... full stack web development.
 - 👯 I’m looking to collaborate on ... fun and interesting ideas.
 - 📫 How to reach me: ... smakela.now@gmail.com.
