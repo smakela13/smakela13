@@ -2,11 +2,11 @@
 
 I'm a Front End Developer with a publishing industry background.
 
-I’m detail oriented, great at collaborating with others, have excellent written and verbal communication skills, and am a strategic thinker. From my work as a Publisher, I’m keenly familiar with deadlines and a fast-paced environment. Learning is something I’m truly passionate about.
+I’m detail oriented, great at collaborating with others, have excellent written and verbal communication skills, and am a strategic thinker. From my work as a Publisher, I’m keenly familiar with deadlines and a fast-paced environment.
 
 In terms of programming, I'm comfortable with HTML5, CSS, JavaScript ES6+, Node.js, Git/GitHub, React.js, WordPress, and responsive web design. I am familiar with GraphQL, jQuery, Python, PHP, and MySQL. My skills are growing every day.
 
-Take a look at my [portfolio](https://smakela13.github.io/smakela-portfolio-react-version/) to view more of my skills and projects. You can also view my GitHub [repositories](https://github.com/smakela13?tab=repositories) for more projects. Feel free to contact me through [LinkedIn](https://www.linkedin.com/in/soma-makela/).
+Take a look at my [portfolio](https://smakela13.github.io/smakela-portfolio-react-version/) to learn more. You can also view my GitHub [repositories](https://github.com/smakela13?tab=repositories) for more projects. Feel free to contact me through [LinkedIn](https://www.linkedin.com/in/soma-makela/).
 
 Here are some quick facts about me:
 
