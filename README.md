@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Full Stack Web Developer with a publishing industry background.
+I'm a Front End Developer with a publishing industry background.
 
 I’m detail oriented, great at collaborating with others, have excellent written and verbal communication skills, and am a strategic thinker. From my work as a Publisher, I’m keenly familiar with deadlines and a fast-paced environment. Learning is something I’m truly passionate about.
 
