@@ -11,7 +11,7 @@ Take a look at my [portfolio](https://smakela13.github.io/smakela-portfolio-reac
 Here are some quick facts about me:
 
 - 🔭 I’m currently working on ... a Discord moderator bot.
-- 🌱 I’m currently learning ... full stack web development.
+- 🌱 I’m currently learning ... front-end/full stack web development.
 - 👯 I’m looking to collaborate on ... fun and interesting ideas.
 - 📫 How to reach me: ... smakela.now@gmail.com.
 - 😄 Pronouns: ... they/them.
