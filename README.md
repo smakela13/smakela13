@@ -2,16 +2,16 @@
 
 I'm a Front End Developer with a publishing industry and webmaster background.
 
-I’m detail oriented, great at collaborating with others, have excellent written and verbal communication skills, and am a strategic thinker. From my work as a Publisher, I’m keenly familiar with deadlines and a fast-paced environment.
+I’m detail oriented, great at collaborating with others, a strategic thinker, and have excellent written and verbal communication skills. From my work as a Publisher, I’m keenly familiar with deadlines and a fast-paced environment.
 
-In terms of programming, I'm comfortable with HTML5, CSS, JavaScript ES6+, Node.js, Git/GitHub, React.js, WordPress, and responsive web design. I am familiar with GraphQL, jQuery, Java, Python, PHP, and MySQL. My skills are growing every day.
+In terms of programming, I'm comfortable with HTML5, CSS, JavaScript ES6+, Java, React.js, Node.js, Git/GitHub, and WordPress. I am familiar with MongoDB, GraphQL, jQuery, PHP, and SQL. My skills are growing every day.
 
 Take a look at my [portfolio](https://smakela13.github.io/smakela-portfolio-react-version/) to learn more. You can also view my GitHub [repositories](https://github.com/smakela13?tab=repositories) for more projects. Feel free to contact me through [LinkedIn](https://www.linkedin.com/in/soma-makela/).
 
 Here are some quick facts about me:
 
-- 🔭 I’m currently working on ... a Discord moderator bot.
-- 🌱 I’m currently learning ... front-end/full stack web development.
+- 🔭 I’m currently working on ... a Discord.js moderator bot and a Java text-based adventure game.
+- 🌱 I’m currently learning ... Frontend/Full-Stack Web Development and Java.
 - 👯 I’m looking to collaborate on ... fun and interesting ideas.
 - 📫 How to reach me: ... smakela.now@gmail.com.
 - 😄 Pronouns: ... they/them.
