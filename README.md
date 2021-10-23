@@ -17,7 +17,9 @@ Here are some quick facts about me:
 - 😄 Pronouns: ... they/them.
 - ⚡ Fun fact: ... I've traveled to over 20 countries.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smakela13&layout=compact&langs_count=10&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smakela13&layout=compact&langs_count=10&theme=nord)
 
 ![Soma's GitHub stats](https://github-readme-stats.vercel.app/api?username=smakela13&count_private=true&theme=nord)
+
+<!-- (https://github.com/anuraghazra/github-readme-stats) -->
 
