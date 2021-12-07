@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Front End Developer with a publishing industry and webmaster background.
+I'm a Software Engineer with a publishing industry and webmaster background.
 
 I’m detail oriented, great at collaborating with others, a strategic thinker, and have excellent written and verbal communication skills. From my work as a Publisher, I’m keenly familiar with deadlines and a fast-paced environment.
 
