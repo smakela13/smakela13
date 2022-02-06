@@ -12,7 +12,7 @@ Take a look at my [portfolio](https://www.somamakela.com) to learn more about me
 Here are some quick facts about me:
 
 - 🔭 I’m currently working on ... an app to keep track of a person's desired health stats and a Java text-based adventure game.
-- 🌱 I’m currently learning ... Frontend/Full-Stack Web Development and Java.
+- 🌱 I’m currently learning ... Frontend/Full-Stack development and Java.
 - 👯 I’m looking to collaborate on ... fun and interesting ideas!
 - 📫 How to reach me: ... smakela.now@gmail.com.
 - 😄 Pronouns: ... they/them.
