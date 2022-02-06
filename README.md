@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I'm a Software Engineer who enjoys Frontend and Full-Stack development. Received a certificate in Full Stack Web Development from the University of North Carolina at Chapel Hill. My passion for learning helps my skills grow each day.
+I'm a Software Engineer who enjoys Frontend and Full-Stack development. Received a certificate in Full-Stack Web Development from the University of North Carolina at Chapel Hill. My passion for learning helps my skills grow each day.
 
 Technical skills include JavaScript ES6+, React.js, Node.js, Express.js, Java, SQL, MongoDB, HTML5, CSS3, REST API, Python, Unix, and Git.
 
