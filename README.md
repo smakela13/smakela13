@@ -1,10 +1,13 @@
 ### Hi there 👋
 
-I'm a Software Engineer who enjoys doing Frontend and Full-Stack development.
 
-I'm comfortable with HTML5, CSS3, JavaScript ES6+, Java, React.js, Node.js, Git, and SQL. I am familiar with MongoDB, GraphQL, jQuery, and Python. My passion for learning helps my skills grow every day.
+I'm a Software Engineer who enjoys Frontend and Full-Stack development. Received a certificate in Full Stack Web Development from the University of North Carolina at Chapel Hill. My passion for learning helps my skills grow each day.
 
-Take a look at my [portfolio](https://smakela13.github.io/smakela-portfolio-react-version/) to learn more about me. You can also view my GitHub [repositories](https://github.com/smakela13?tab=repositories) for more projects. Feel free to contact me through [LinkedIn](https://www.linkedin.com/in/soma-makela/) or my email below.
+Technical skills include JavaScript ES6+, React.js, Node.js, Express.js, Java, SQL, MongoDB, HTML5, CSS3, REST API, Python, Unix, and Git.
+
+I also know about Agile development, Responsive design, Content writing, Digital marketing, Research, and Troubleshooting.
+
+Take a look at my [portfolio](https://www.somamakela.com) to learn more about me. You can view my GitHub [repositories](https://github.com/smakela13?tab=repositories) to see more projects. Feel free to contact me through [LinkedIn](https://www.linkedin.com/in/soma-makela/) or my email below.
 
 Here are some quick facts about me:
 
@@ -13,7 +16,7 @@ Here are some quick facts about me:
 - 👯 I’m looking to collaborate on ... fun and interesting ideas!
 - 📫 How to reach me: ... smakela.now@gmail.com.
 - 😄 Pronouns: ... they/them.
-- ⚡ Fun fact: ... I've traveled to over 20 countries and hope to visit many more.
+- ⚡ Fun fact: ... I'm learning Finnish.
 
 ![Soma's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smakela13&layout=compact&langs_count=10&theme=nord)
 
