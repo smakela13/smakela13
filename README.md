@@ -20,7 +20,7 @@ Here are some quick facts about me:
 
 ![Soma's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smakela13&layout=compact&langs_count=10&theme=nord)
 
-![Soma's GitHub stats](https://github-readme-stats.vercel.app/api?username=smakela13&&count_private=true&theme=nord)
+![Soma's GitHub stats](https://github-readme-stats.vercel.app/api?username=smakela13&include_all_commits=true&count_private=true&theme=nord)
 
 <!-- (https://github.com/anuraghazra/github-readme-stats) -->
 
